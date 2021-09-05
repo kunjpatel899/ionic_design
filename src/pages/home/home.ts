@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
-
+// bb final changes
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
