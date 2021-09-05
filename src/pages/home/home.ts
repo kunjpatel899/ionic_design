@@ -6,7 +6,7 @@ import { FormGroup, FormBuilder, Validators } from '@angular/forms';
   selector: 'page-home',
   templateUrl: 'home.html'
 })
-export class HomePage {
+export class HomePage {//sadsad
 
   DetailsFormgroup: FormGroup;
   index:any = 0;
@@ -23,7 +23,7 @@ export class HomePage {
       state: ['', Validators.required],
       district: ['', Validators.required],
       taluka: [''],
-      panchayat: [''],
+      panchayat: [''], //sdsd
       village: [''],
       location: ['', Validators.required],
 
