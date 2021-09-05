@@ -85,7 +85,3 @@ export class HomePage {
   }
 
 }
-// bb1 changes
-
-// b changes added
-// a changes added
