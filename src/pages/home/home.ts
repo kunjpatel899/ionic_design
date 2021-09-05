@@ -81,7 +81,7 @@ export class HomePage {
 		if (index != this.index)
 			this.index = index;
 		else
-			this.index = 0;
+			this.index = 0; //newwwwwwwww AA changes added
   }
 
 }
