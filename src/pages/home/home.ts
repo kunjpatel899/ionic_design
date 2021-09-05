@@ -83,7 +83,7 @@ export class HomePage {
 		else
 			this.index = 0;
   }
-
+// NNNNNNNNNeeeeeeeeeewwwwww uat changes added
 }
 
 // bb changes added
